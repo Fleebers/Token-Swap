@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Fleebers/Token-Swap/issues"
   },
-  "homepage": "https://github.com/Fleebers/Token-Swap#readme"
+  "homepage": "https://github.com/Fleebers/Token-Swap#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1"
+  }
 }
